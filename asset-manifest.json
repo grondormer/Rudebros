@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Rudebros/static/css/main.ff9e69a3.chunk.css",
+    "main.js": "/Rudebros/static/js/main.063be779.chunk.js",
+    "main.js.map": "/Rudebros/static/js/main.063be779.chunk.js.map",
+    "runtime-main.js": "/Rudebros/static/js/runtime-main.5d612120.js",
+    "runtime-main.js.map": "/Rudebros/static/js/runtime-main.5d612120.js.map",
+    "static/js/2.681ba5e1.chunk.js": "/Rudebros/static/js/2.681ba5e1.chunk.js",
+    "static/js/2.681ba5e1.chunk.js.map": "/Rudebros/static/js/2.681ba5e1.chunk.js.map",
+    "static/js/3.931dd903.chunk.js": "/Rudebros/static/js/3.931dd903.chunk.js",
+    "static/js/3.931dd903.chunk.js.map": "/Rudebros/static/js/3.931dd903.chunk.js.map",
+    "index.html": "/Rudebros/index.html",
+    "static/css/main.ff9e69a3.chunk.css.map": "/Rudebros/static/css/main.ff9e69a3.chunk.css.map",
+    "static/js/2.681ba5e1.chunk.js.LICENSE.txt": "/Rudebros/static/js/2.681ba5e1.chunk.js.LICENSE.txt",
+    "static/media/1.40c376c3.gif": "/Rudebros/static/media/1.40c376c3.gif",
+    "static/media/1.be8a8817.png": "/Rudebros/static/media/1.be8a8817.png",
+    "static/media/reset.css": "/Rudebros/static/media/Tva2012-oYzo.f78afb2f.woff",
+    "static/media/json.8ce49b30.PNG": "/Rudebros/static/media/json.8ce49b30.PNG",
+    "static/media/rudebros1.8121d366.png": "/Rudebros/static/media/rudebros1.8121d366.png",
+    "static/media/rudebros2.a6ac1576.png": "/Rudebros/static/media/rudebros2.a6ac1576.png",
+    "static/media/rudebros3.3c8b34e6.png": "/Rudebros/static/media/rudebros3.3c8b34e6.png",
+    "static/media/rudebros4.7cffc73f.png": "/Rudebros/static/media/rudebros4.7cffc73f.png",
+    "static/media/rudebros5.3000516d.png": "/Rudebros/static/media/rudebros5.3000516d.png",
+    "static/media/rudebros6.6af60383.png": "/Rudebros/static/media/rudebros6.6af60383.png",
+    "static/media/rudebros7.965a28ba.png": "/Rudebros/static/media/rudebros7.965a28ba.png",
+    "static/media/rudebros8.68c05673.png": "/Rudebros/static/media/rudebros8.68c05673.png",
+    "static/media/this.288d8f80.png": "/Rudebros/static/media/this.288d8f80.png",
+    "static/media/tickets.690e43de.PNG": "/Rudebros/static/media/tickets.690e43de.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d612120.js",
+    "static/js/2.681ba5e1.chunk.js",
+    "static/css/main.ff9e69a3.chunk.css",
+    "static/js/main.063be779.chunk.js"
+  ]
+}
